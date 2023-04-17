@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Arthurlul/metadologia/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Arthurlul/3.Metadologia/blob/main/LICENSE)
 
 # Metadologia
 A metodologia contempla as definições de ferramentas utilizadas pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
@@ -6,7 +6,7 @@ A metodologia contempla as definições de ferramentas utilizadas pela equipe ta
 Os artefatos do projeto serão desenvenvolvidos a partir das plataformas GitHub e Trello, e a relação dos ambientes está apresentada na tabela abaixo.
 |Ambiente     | Plataforma  |Link de acesso |
 |-------|-------------------------|----|
-| Repositório de código fonte | GitHub | <https://github.com/Arthurlul/metadologia>(trocar para o github do classroom) |
+| Repositório de código fonte | GitHub | <https://github.com/Arthurlul/3.Metadologia>(trocar para o github do classroom) |
 | Design de Interfaces | Figma | <https://www.figma.com/file/z37zGLpTajLES3zOdmlMdJ/ControlaFacil-Wireframe?node-id=0%3A1&t=69S8xQR1BVdCDJwZ-1> |
 | Gerenciamento do Projeto | Trello | <https://www.figma.com/file/AL18hLgkr8t7kHa3BGKWBq/Sus-Online?node-id=0%3A1> |
 | Comunicação e Reuniões | Discord | <https://discord.gg/r3ZXk8fN>|
